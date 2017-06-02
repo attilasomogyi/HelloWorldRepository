@@ -1,4 +1,3 @@
-# HelloWorldRepository
 # README.md Syntax
 # Header One
 ```
